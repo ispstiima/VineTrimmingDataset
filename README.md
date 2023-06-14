@@ -9,7 +9,9 @@ The dataset consists of 36 captures, acquired in the Conte Spagnoletti Zeuli vin
 
 The data was acquired by a Microsoft Azure Kinect, on a tripod fixed at a variable distance between 1.5 and 2 m to the row, on June 23rd, 2022. 
 
-18 images were captured from the east row and the other 18 from the west row in a time range between 8:29 and 8:43 in the morning (local time). For each row, nine images were captured before trimming and nine others from the same plants but after trimming. 
+18 images were captured from the east row and the other 18 from the west row in a time range between 8:29 and 8:43 in the morning (local time). For each row, nine images were captured before trimming and nine others from the same plants but after trimming. The map of the experimental field with the plant tags are in the following figure.
+
+![Experimental field](/MAP.png "Experimental field in Andria, Italy")
 
 The Azure Kinect camera produced the following data:
 - Color images (.jpg) of resolution 2048 x 1536 pixels
