@@ -32,7 +32,7 @@ Color images were manually annotated with the [LabelMe software](https://github.
 
 Segments are in colored segmentation masks (ID\*\_GroundTruth\_\*.png) where canopy, grapes and background classes are in green, blue and black, respectively.
 
-The measured mass of the removed leaves equals 283 g for the east row and 244 g for the west row.
+The measured mass of the removed leaves equals **283 g** for the east row and **244 g** for the west row.
 
 ## Acquisition software
 
